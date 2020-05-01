@@ -1,0 +1,11 @@
+C:\Users\lucas\source\repos\01.SequentialStructure\Exercise04\bin\Debug\netcoreapp3.1\Exercise04.exe
+C:\Users\lucas\source\repos\01.SequentialStructure\Exercise04\bin\Debug\netcoreapp3.1\Exercise04.deps.json
+C:\Users\lucas\source\repos\01.SequentialStructure\Exercise04\bin\Debug\netcoreapp3.1\Exercise04.runtimeconfig.json
+C:\Users\lucas\source\repos\01.SequentialStructure\Exercise04\bin\Debug\netcoreapp3.1\Exercise04.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\01.SequentialStructure\Exercise04\bin\Debug\netcoreapp3.1\Exercise04.dll
+C:\Users\lucas\source\repos\01.SequentialStructure\Exercise04\bin\Debug\netcoreapp3.1\Exercise04.pdb
+C:\Users\lucas\source\repos\01.SequentialStructure\Exercise04\obj\Debug\netcoreapp3.1\Exercise04.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\01.SequentialStructure\Exercise04\obj\Debug\netcoreapp3.1\Exercise04.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\01.SequentialStructure\Exercise04\obj\Debug\netcoreapp3.1\Exercise04.AssemblyInfo.cs
+C:\Users\lucas\source\repos\01.SequentialStructure\Exercise04\obj\Debug\netcoreapp3.1\Exercise04.dll
+C:\Users\lucas\source\repos\01.SequentialStructure\Exercise04\obj\Debug\netcoreapp3.1\Exercise04.pdb
